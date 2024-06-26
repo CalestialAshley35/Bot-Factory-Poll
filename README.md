@@ -1,4 +1,3 @@
-```markdown
 # Bot Factory Poll
 
 Bot Factory Poll is a Discord bot maker designed to create simple poll bots with ease. This project allows users to create polls in their Discord servers with just a few commands.
